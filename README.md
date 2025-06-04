@@ -77,3 +77,28 @@ Each line is exactly 35 characters with no delimiters.
    ```bash
    cobc -x -free PayrollProject.cbl
 ./PayrollProject.exe  (or just run in IDE)
+
+🧠 Key Learning Points
+File I/O in COBOL (SELECT, FD)
+
+Fixed-format data handling
+
+Arithmetic with COMPUTE
+
+Using STRING for dynamic line building
+
+Structured PERFORM and IF blocks
+
+📦 Future Improvements
+Add overtime pay logic (e.g. 1.5× after 160 hours)
+
+Export to CSV format for Excel integration
+
+Console menu interface
+
+Total payroll summary (e.g. total gross/net)
+
+✅ License
+This project is open for educational and portfolio use.
+
+🙌 Acknowledgements
